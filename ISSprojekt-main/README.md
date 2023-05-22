@@ -1,5 +1,5 @@
 # ISSprojekt
 Collaborators:
-Fran Saganić
-Borna Majerić
+Fran Saganić,
+Borna Majerić,
 Barbara Blažević
